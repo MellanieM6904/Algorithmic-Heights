@@ -1,7 +1,7 @@
 # Fibonacci Numbers
 # Name: Mellanie Martin
 # Summary: The following solves the "Fibonacci Numbers" Algorithmic Heights problem in the Rosalind Challenges
-# Status: INCOMPLETE
+# Status: COMPLETE
 
 # Equation:
 #        { F(n-1) + F(n-2), n > 1,
